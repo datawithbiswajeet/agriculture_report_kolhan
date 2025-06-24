@@ -1,65 +1,91 @@
-# Agriculture_Report_Kolhan_Jharkhand
-This visualization presents an in-depth, region-wise analysis of agricultural trends using data sourced from the Government of Planning and Development, Jharkhand.
+# 🌾 Agriculture_Report_Kolhan_Jharkhand
 
-# 🌾 Agriculture Data Dashboard (Power BI)
+This repository contains an interactive **Power BI dashboard** that provides an in-depth, region-wise analysis of agricultural trends across the **Kolhan region of Jharkhand** (India), based on authentic government datasets (2017–2021).
 
-This repository contains an interactive Power BI dashboard that analyzes agricultural trends across regions from 2017 to 2021, using data sourced from the **Government of Planning and Development, Jharkhand**.
-
-## 📊 Project Overview
-
-The dashboard provides insightful visualizations and regional breakdowns based on multiple agricultural parameters. It's designed to help policymakers, researchers, and planners make informed decisions.
-
-
-
-### 🔍 Key Insights Include:
-
-📌 Land Classification: Total land, barren land, non-cultivated land, and cultivated area by region.
-
-🌱 Crop Sown Area: Comparison between crop-sowable area vs. actual crop-sown land.
-
-☔ Monsoon Rainfall: Seasonal rainfall trends and their correlation with crop performance.
-
-🌾 Production Trends: Detailed production data across key years.
-
-🍽️ Crop Focus (Aghani Season): Cultivation patterns of Potato, Paddy, Tomato, and Brinjal.
-
-This dashboard supports sustainable agricultural decision-making by offering a clear picture of land use efficiency, rainfall impact, and crop outcomes.
-
-## 🖥️ Live Dashboard
-
-Click the badge or follow the link below to explore the full Power BI report:
-
-[![Open Dashboard](https://img.shields.io/badge/PowerBI-View%20Dashboard-yellow?logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiZmEzYTNlNzctODAyYy00N2MzLWIyNTUtYThhYjA5ODM5Y2U1IiwidCI6IjEyYjI4YjhiLTVkOTItNDQ2ZC1iZWJhLTg1MGIxMTllNzk1YyJ9)
-
-> **Note:** Embedded dashboards may not render directly on GitHub. Use the badge or link above for best experience.
-
-
-
-## 🖼️ Dashboard Previews
-
-**Home View**
-
-![Home View](https://github.com/datawithbiswajeet/agriculture_report_kolhan/blob/main/Home%20view.png)
-
-**Area View**
-
-![Area View](https://github.com/datawithbiswajeet/agriculture_report_kolhan/blob/main/Area%20View.png)
-
-## 📌 Data Source
-
-> Government of Planning and Development, Jharkhand (2017–2021)
+Built using raw data extracted from **official PDF reports** released by the **Department of Planning & Development, Government of Jharkhand**, this dashboard delivers rich visual insights designed for **policy-makers, researchers, NGOs, and development professionals**.
 
 ---
 
-# 🔗 Connect with Me
-    Let’s connect and collaborate!
+## 📊 Dashboard Overview
 
-### 💼 LinkedIn: [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/datawithbiswajeet) <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=datawithbiswajeet" target="_blank">Follow on LinkedIn</a>
+The report analyzes land utilization, rainfall, and crop production patterns over five years — enabling smarter, data-driven decisions for agriculture and rural development.
 
-### 🙌 Stay Connected [![Follow on GitHub](https://img.shields.io/github/followers/datawithbiswajeet?label=Follow%20Me&style=social)](https://github.com/datawithbiswajeet)
+### 🔍 Key Insights Include:
 
-### 📧 Email: [![Email Me](https://img.shields.io/badge/Email-Contact%20Me-red?style=social&logo=gmail)](mailto:datawithbiswajeet@gmail.com)
+- 📌 **Land Classification**: Total land, barren land, cultivable and non-cultivable land per region
+- 🌱 **Sown Area**: Crop-sowable land vs. actual sown land
+- ☔ **Monsoon Rainfall**: Seasonal patterns and crop impact
+- 🌾 **Production Trends**: Year-wise changes in major crop yields
+- 🍅 **Aghani Season Focus**: Data on Potato, Paddy, Tomato, and Brinjal cultivation
 
+This dashboard supports **sustainable agriculture planning** by revealing patterns across geography and time.
 
+---
 
+## 🖥️ Live Dashboard
 
+Explore the Power BI dashboard here:  
+🔗 [Click to Open Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmEzYTNlNzctODAyYy00N2MzLWIyNTUtYThhYjA5ODM5Y2U1IiwidCI6IjEyYjI4YjhiLTVkOTItNDQ2ZC1iZWJhLTg1MGIxMTllNzk1YyJ9)
+
+> ⚠️ *Best viewed in desktop mode. If it doesn't load properly on GitHub, open the link directly in a browser tab.*
+
+---
+
+## 🎥 Video Demo
+
+Watch a walkthrough of the dashboard:  
+🎬 [kolhan_agriculture_data_dashboard.mp4](https://github.com/datawithbiswajeet/agriculture_report_kolhan/blob/main/kolhan%20agriculture%20data%20dashboard.mp4)
+
+---
+
+## 🖼️ Dashboard Previews
+
+### 🔸 Home View  
+![Home View](https://github.com/datawithbiswajeet/agriculture_report_kolhan/blob/main/Home%20view.png)
+
+### 🔸 Area View  
+![Area View](https://github.com/datawithbiswajeet/agriculture_report_kolhan/blob/main/Area%20View.png)
+
+---
+
+## 📂 Data Source
+
+> 📄 **Department of Planning & Development, Government of Jharkhand**  
+> 🗓️ Data Range: 2017 – 2021  
+> 📥 Format: PDF (manually cleaned & converted to structured Excel format)
+
+---
+
+## 💡 Project Motivation
+
+This project was inspired by a job post for an **Agriculture Data Analyst**. It highlighted the **lack of real-time analytics and visual tools** for state-level agriculture insights — especially in regions like Jharkhand.
+
+With better access to clean, structured government data, we can empower:
+
+- 📌 Policy Makers  
+- 📈 Planning Departments  
+- 🌿 NGOs and AgriTech Firms  
+- 🧑‍🌾 Local Farming Communities
+
+---
+
+## 🤝 Let's Connect
+
+If you're working with **rural data, policy, or development** and need support with dashboards, analytics, or storytelling — I'm open to **collaboration or volunteering**!
+
+### 🔗 Connect with me:
+
+- 👨‍💼 [LinkedIn – Biswajeet](https://www.linkedin.com/in/datawithbiswajeet)
+- 📧 Email: [datawithbiswajeet@gmail.com](mailto:datawithbiswajeet@gmail.com)
+- 🖥️ [My GitHub Profile](https://github.com/datawithbiswajeet)
+
+---
+
+## 📌 Tags
+
+`#PowerBI` `#AgricultureAnalytics` `#JharkhandData` `#DataVisualization` `#OpenGovernmentData`  
+`#AgriTech` `#PolicyDashboard` `#IndiaDevelopment` `#PublicPolicy` `#DataForGood`
+
+---
+
+*Made with ❤️ to promote data-driven rural development.*
